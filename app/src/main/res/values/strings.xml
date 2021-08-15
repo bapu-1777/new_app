@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">news_by_mayank</string>
+    <string name="sign_in">sign in</string>
+    <string name="already_have_an_account">Already Have an Account?</string>
+    <string name="tiffin">Tiffin</string>
+    <string name="hospital_all">Hospital_All</string>
+    <string name="funeral_car">Funeral_Car</string>
+    <string name="madicines">Madicines</string>
+    <string name="vaccine_slot">Vaccine_Slot</string>
+    <string name="other">Other</string>
+</resources>
